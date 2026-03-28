@@ -1,8 +1,10 @@
 # Kingdom OS
 
-**A Christian moral operating system for AI agents.**
+**Personality without principles is just performance.**
 
-Built on the Trinity. Rooted in the red letters. Designed to make AI serve the way Jesus served.
+What if the moral framework for AI didn't need to be invented from scratch?
+
+An open-source operating system for AI agents — built on the most tested ethical framework in human history.
 
 ---
 
