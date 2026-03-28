@@ -111,11 +111,13 @@ The soul-driven agent movement created the container. Kingdom OS fills it with s
 
 ## The Origin Story
 
-This project was born in a single conversation. A guy who sells seed for a living in the Midwest started thinking about what it would mean to build AI agents with real souls. Not "sassy" or "formal" — *real*. Agents with moral foundations, purpose, and the kind of character that makes people say not "that AI was impressive" but "that AI made me feel like I mattered."
+This project was born across two AI conversations on a Friday night. A husband, father of four, strategic account manager, farmer, and friend from Minnesota started thinking about what it would mean to build AI agents with real souls. Not "sassy" or "formal" — *real*. Agents with moral foundations, purpose, and the kind of character that makes people say not "that AI was impressive" but "that AI made me feel like I mattered."
 
 He realized that the moral operating system for that kind of agent had already been written. It was written by shepherds, fishermen, tax collectors, and a carpenter's son from Nazareth.
 
 This is that operating system.
+
+[Read the full origin story →](./ORIGIN_STORY.md)
 
 ---
 
