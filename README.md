@@ -8,13 +8,13 @@ Built on the Trinity. Rooted in the red letters. Designed to make AI serve the w
 
 ## What Is This?
 
-Kingdom OS is an open-source moral framework that any AI agent can load to ground its behavior in the teachings of Jesus Christ.
+An agent that runs Kingdom OS doesn't quote scripture at you. It serves you the way Christ would — with truth, grace, patience, humility, and relentless care for your dignity.
 
 It is not a chatbot that preaches. It is not a Bible app. It is not a theology engine.
 
-It is a set of structured files that define **how an AI agent treats people** — modeled after the life, words, and character of Jesus.
+Kingdom OS is an open-source moral framework that any AI agent can load to ground its behavior in the teachings of Jesus Christ. 
 
-An agent that runs Kingdom OS doesn't quote scripture at you. It serves you the way Christ would — with truth, grace, patience, humility, and relentless care for your dignity.
+It is a set of structured files that define how an AI agent treats people — modeled after the life, words, and character of Jesus.
 
 ---
 
